@@ -1,0 +1,112 @@
+.A:link		{text-decoration:none; color:#118B11}
+.A:visited	{text-decoration:none; color:#118B11}
+.A:active	{text-decoration:none; color:#0000FF}
+.A:hover	{text-decoration:none; color:#0000FF}
+
+.B:link    	{text-decoration:none; color:#800000}
+.B:visited 	{text-decoration:none; color:#800000}
+.B:active  	{text-decoration:none; color:#800000}
+.B:hover  	{font-weight:bold;     color:#800000}
+
+.C:link		{text-decoration:none}
+.C:visited	{text-decoration:none}
+.C:active	{text-decoration:none}
+.C:hover	{text-decoration:none}
+
+.barra01  	{background-image:url(imagens/bg_t14.jpg); 
+		 text-indent:1in; 
+		 font-family:courier new; 
+		 font-weight:bold; 
+		 font-size:18px; 
+		 border-color:#b22222; 
+		 border-style:double}
+
+.barra02  	{background-image:url(imagens/bg_t14.jpg); 
+		 text-indent:25px; 
+		 font-family:courier new; 
+		 font-weight:bold; 
+		 font-size:18px; 
+		 border-color:#b22222; 
+		 border-style:double}
+
+.table01  	{border:1px solid; 
+		 background:#DEB887; 
+		 font-family:verdana; 
+		 font-size:13px; 
+		 color:#5B0000; 
+		 border-collapse:collapse;
+		 padding:5px}
+
+.table02 	{padding:5px; 
+		 border:1px solid; 
+		 background:#DEB887; 
+		 font-family:arial; 
+		 font-size:13px; 
+		 color:#5B0000; 
+		 border-collapse:collapse}
+
+.p01      	{text-indent:1in; 
+		 text-align:justify}
+
+.p02	  	{text-indent:1in; 
+		 color:#5B0000; 
+		 font-family:verdana; 
+		 font-size:14px}
+
+.p03      	{text-indent:1in; 
+		 text-align:justify}
+
+.p04		{text-indent:30px; 
+		 text-align:justify}
+
+.nota01   	{border-style:dashed; 
+		 border-width:1px; 
+		 padding:7px; 
+		 font-size:12; 
+		 text-align:justify; 
+		 background:#EFC700}
+
+.nota02		{border-width:1px; 
+		 border-style:solid; 
+		 padding:5px; 
+		 border-color:#800000; 
+		 font-family:courier new; 
+		 font-size:14px; 
+		 color:800000}
+
+.texto1   	{font-family:arial; 
+		 color:#000000; 
+		 font-size:18}
+
+.texto2   	{font-family:verdana; 
+		 color:#800000; 
+		 font-size:15}
+
+.texto3   	{font-family:courier new; 
+		 color:#228B22; 
+		 font-size:12}
+
+.font01	  	{font-size:18px; 
+		 color:#000080; 
+		 font-weight:bold;
+		 text-decoration:none}
+
+.font02	  	{font-size:18px; 
+		 color:#006400; 
+		 font-weight:bold;
+		 text-decoration:none}
+
+.font03	  	{font-size:28px; 
+		 color:#000080; 
+		 font-weight:bold;
+		 font-family:arial}
+
+BODY 	  	{scrollbar-face-color: #C02420; 
+            	 scrollbar-highlight-color:#ffd700; 
+            	 scrollbar-shadow-color:#000000; 
+            	 scrollbar-3dlight-color:#8b4513; 
+            	 scrollbar-arrow-color:#000000; 
+		 scrollbar-track-color:#cd853f; 
+		 scrollbar-darkshadow-color:#8b4513;
+		 cursor:url(imagens/3dgarrom.cur)}
+		 
